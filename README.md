@@ -1,2 +1,2 @@
 # Netflix_Clone
-Frontend project of Netflix clone app
+Frontend project of Netflix clone app - REACT JS 
